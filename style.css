@@ -1,0 +1,19 @@
+
+   
+    body {
+        background: green;
+       
+    }
+    .about {
+        background : pink;
+    }
+    .contact {
+        background : red;
+    }
+    .name {
+        color: blue;
+    }
+   
+        .link {
+           color: blue;
+    }
